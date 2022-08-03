@@ -1,6 +1,6 @@
 # ch10
 
-A new Flutter project.
+오준석으 플러터 생존코딩 Ch 10
 
 ## Getting Started
 
